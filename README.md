@@ -1,4 +1,3 @@
-# khfood
 
 jQuery Mobile 教學練習
 
